@@ -1,0 +1,34 @@
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\Interop.MediaPlayer.dll
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+D:\NCYU\程式競賽\221210 Hackathon\Test\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+D:\Test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Test\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+D:\Test\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Test\WindowsFormsApp1\obj\Debug\Interop.MediaPlayer.dll
+D:\Test\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+D:\Test\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
